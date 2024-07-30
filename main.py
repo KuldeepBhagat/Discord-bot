@@ -417,4 +417,4 @@ async def c_error(ctx, error):
     if isinstance(error, commands.errors.MissingPermissions):
         await missing_perms(ctx)
 
-bot.run('MTIyOTA4NTIxMTU5ODUyNDQ3OA.GtfmlQ.HGP8KUiQEMcAymaGlNNHzyCNJfYxCkIs9-RSYo')
+bot.run('bot token')
