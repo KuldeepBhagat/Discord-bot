@@ -7,4 +7,7 @@ or use !nyaa {query in double quotes} {page number} to extract search results of
 
 News Feature: use !newse {query} or !ne to search for news related to your queries.<br><br>
 Random image download: use !rimage {no of images} to get random images.<br><br>
-Youtube search: use !youtube {query} to get first youtube result.
+Youtube search: use !youtube {query} to get first youtube result. <br><br>
+
+Necessary python modules before running the code!!<br>
+discord, newsapi, googleapiclient, requests, bs4
