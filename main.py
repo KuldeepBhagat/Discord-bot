@@ -38,8 +38,8 @@ async def rimage(ctx, number=1):
     for link in url:
         await ctx.send(link)
 
-news_api = "32a810dc939a46b0aa36a50062567064"
-youtube_api = "AIzaSyCzcPI8M4G9C47yV8CVtfQyVL9iLgABkyA"
+news_api = "newsapi.com api"
+youtube_api = "youtube api"
 
 @bot.command(name='newsh', aliases=['nh'])
 async def newsh(ctx, country='in', category=None, page_size=5):
